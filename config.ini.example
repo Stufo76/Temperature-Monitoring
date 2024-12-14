@@ -1,0 +1,15 @@
+[Paths]
+original_file = /usr/local/nagios/var/service-perfdata.out
+copied_file = /tmp/service-perfdata.out
+graph_file = /tmp/CED_Temperature.png
+excel_file = /tmp/CED_Temperature.xlsx
+
+[Email]
+smtp_server = smtp.example.com
+smtp_port = 25
+from_email = your-email@example.com
+to_email = recipient@example.com
+
+[Hosts]
+list = host1,host2,host3
+colors = blue,green,red
