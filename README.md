@@ -1,5 +1,7 @@
 # Temperature Monitoring Script
 
+[![GPLv3 License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+
 This repository contains a Python script to automate the generation of temperature monitoring reports for IT infrastructure. The script processes performance data from Nagios, extracts temperature metrics, and produces:
 
 - Time-series temperature graphs for selected hosts.
